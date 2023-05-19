@@ -1,0 +1,9 @@
+* esrap
+
+Common Lisp packrat parser
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/scymtym/esrap.git |
+| commit  | d806138                                  |
+| systems | esrap                                    |
+|---------+------------------------------------------|

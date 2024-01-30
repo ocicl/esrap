@@ -4,6 +4,6 @@ Common Lisp packrat parser
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/scymtym/esrap.git |
-| commit  | d806138                                  |
+| commit  | f42e1ca                                  |
 | systems | esrap                                    |
 |---------+------------------------------------------|
